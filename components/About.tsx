@@ -35,7 +35,7 @@ export default function About() {
           >
             <div className="space-y-6 text-lg text-gray-300 leading-relaxed">
               <p>
-                Mohammad is a .NET developer specializing in ASP.NET Core systems, database architecture, and secure backend services.
+                Mohammad is a Full-Stack .NET developer specializing in ASP.NET Core systems, database architecture, and secure backend services.
               </p>
               
               <p>
