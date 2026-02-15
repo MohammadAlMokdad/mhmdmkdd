@@ -15,8 +15,8 @@ const jetbrains = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Mohammad Al-Mokdad - .NET Developer | Backend Systems Engineer',
-  description: 'Mohammad Al-Mokdad - Senior .NET Developer specializing in ASP.NET Core systems, database architecture, and secure backend services. Building scalable platforms with clean architecture principles.',
+  title: 'Mohammad Al-Mokdad - Full Stack .NET Developer | Backend Systems Engineer',
+  description: 'Mohammad Al-Mokdad - Full Stack .NET Developer specializing in ASP.NET Core systems, database architecture, and secure backend services. Building scalable platforms with clean architecture principles.',
   keywords: [
     '.NET Developer',
     'ASP.NET Core',
@@ -25,21 +25,22 @@ export const metadata: Metadata = {
     'Beirut',
     'Lebanon',
     'Software Engineer',
+    'Full Stack Developer',
     'MSSQL',
     'Clean Architecture',
     'REST APIs',
   ],
   authors: [{ name: 'Mohammad Al-Mokdad' }],
   openGraph: {
-    title: 'Mohammad Al-Mokdad - .NET Developer',
-    description: 'Senior .NET Developer specializing in scalable backend systems and clean architecture',
+    title: 'Mohammad Al-Mokdad - Full Stack .NET Developer',
+    description: 'Full Stack .NET Developer specializing in scalable backend systems and clean architecture',
     type: 'website',
     locale: 'en_US',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Mohammad Al-Mokdad - .NET Developer',
-    description: 'Senior .NET Developer specializing in scalable backend systems',
+    title: 'Mohammad Al-Mokdad - Full Stack .NET Developer',
+    description: 'Full Stack .NET Developer specializing in scalable backend systems',
   },
   robots: {
     index: true,
