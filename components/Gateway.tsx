@@ -10,7 +10,7 @@ const terminalLines = [
   '> Backend systems: Optimal performance mode engaged',
   '',
   '> Welcome, Esteemed Visitor',
-  '> Press any key or tap anywhere to continue',
+  '> Press Enter or tap anywhere to continue',
 ]
 
 interface GatewayProps {
