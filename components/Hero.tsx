@@ -55,10 +55,10 @@ export default function Hero() {
             className="flex flex-col sm:flex-row gap-4 justify-center items-center"
           >
             <button
-              onClick={() => scrollToSection('projects')}
+              onClick={() => scrollToSection('skills')}
               className="group px-8 py-4 bg-primary hover:bg-primary-dark text-white font-semibold rounded-lg transition-all duration-300 shadow-lg shadow-primary/30 hover:shadow-primary/50 flex items-center gap-2"
             >
-              View Projects
+              View Skills
               <ArrowDown className="w-4 h-4 group-hover:translate-y-1 transition-transform" />
             </button>
             
